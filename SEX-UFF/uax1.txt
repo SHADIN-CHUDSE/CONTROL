@@ -1,1 +1,1 @@
-
+[FBAN/FB4A;FBAV/460.0.0.34.89;FBBV/588414891;FBDM/{density=2.0,width=720,height=1406};FBLC/en_US;FBRV/0;FBCR/Banglalink;FBMF/vivo;FBBD/vivo;FBPN/com.facebook.katana;FBDV/vivo 1906;FBSV/11;FBOP/1;FBCA/arm64-v8a:;]
