@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/30.0.0.0.13;FBBV/7735552;[FBAN/FB4A;FBAV/30.0.0.0.13;FBPN/com.facebook.katana;FBLC/en_CA;FBBV/7735552;FBCR/Bell Mobility;FBMF/Sony;FBBD/sony;FBDV/E2303;FBSV/6.7.3;FBCA/arm64-v8a:;FBDM/{density=2.375,width=496,height=2115};]
+[FBAN/FB4A;FBAV/268.1.0.54.121;FBBV/211681957;FBDM/{density=3.0,width=1080,height=2076};FBLC/en_US;FBRV/212675737;FBCR/Verizon ;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-G950U;FBSV/9;FBOP/1;FBCA/arm64-v8a:;]
