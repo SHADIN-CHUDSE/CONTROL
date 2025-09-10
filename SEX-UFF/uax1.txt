@@ -1,2 +1,3 @@
+[FBAN/FB4A;FBAV/329.0.0.29.120;FBBV/307279834;FBDM/{density=1.75,width=720,height=1466};FBLC/cs_CZ;FBCR/Vodafone CZ;FBMF/motorola;FBBD/motorola;FBPN/com.facebook.katana;FBDV/moto g(20);FBSV/11;FBOP/19;FBCA/arm64-v8a:;]
 [FBAN/FB4A;FBAV/355.0.0.21.108;FBBV/352948159;FBDM/{density=2.625,width=1080,height=2186};FBLC/ru_RU;FBCR/Beeline;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-A515F;FBSV/11;FBOP/19;FBCA/arm64-v8a:;]
 [FBAN/FB4A;FBAV/356.0.0.28.112;FBBV/353870771;FBDM/{density=2.625,width=1080,height=1920};FBLC/ru_RU;FBCR/LV TELE2;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-J730F;FBSV/9;FBOP/19;FBCA/armeabi-v7a:armeabi;]
