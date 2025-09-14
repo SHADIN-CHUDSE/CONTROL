@@ -1,3 +1,7 @@
+[FBAN/FB4A;FBAV/370.0.0.23.112;FBBV/374931233;FBDM/{density=2.625,width=1080,height=2131};FBLC/ru_RU;FBCR/LV TELE2;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-A505FN;FBSV/11;FBOP/19;FBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/359.0.0.30.118;FBBV/358613821;FBDM/{density=3.0,width=1080,height=2168};FBLC/uk_UA;FBCR/Orange;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-G780G;FBSV/11;FBOP/1;FBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/367.0.0.24.107;FBBV/370253085;FBDM/{density=3.0,width=1080,height=2401};FBLC/en_Qaau_GB;FBCR/Circles;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-F700F;FBSV/10;FBBK/1;FBOP/19;FBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/379.0.0.24.109;FBBV/389395293;FBDM/{density=2.0,width=720,height=1280};FBLC/ru_RU;FBCR/ZZ;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-A320FL;FBSV/8.0.0;FBOP/19;FBCA/armeabi-v7a:armeabi;]
 [FBAN/FB4A;FBAV/345.0.0.34.118;FBBV/332957718;FBDM/{density=2.0,width=720,height=1384};FBLC/ru_RU;FBCR/MTS RUS;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-A013F;FBSV/10;FBOP/1;FBCA/armeabi-v7a:armeabi;]
 [FBAN/FB4A;FBAV/345.0.0.34.118;FBBV/332957732;FBDM/{density=2.8125,width=1080,height=2190};FBLC/he_IL;FBCR/Cellcom;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-G998B;FBSV/11;FBOP/1;FBCA/arm64-v8a:;]
 [FBAN/FB4A;FBAV/334.0.0.32.119;FBBV/314823326;FBDM/{density=3.375,width=1080,height=2162};FBLC/ko_KR;FBCR/SKTelecom;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-A908N;FBSV/11;FBOP/1;FBCA/arm64-v8a:;]
