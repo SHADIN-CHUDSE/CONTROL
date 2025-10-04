@@ -1,2 +1,3 @@
-[FBAN/FB4A;FBAV/334.0.0.32.119;FBBV/314823326;FBDM/{density=3.375,width=1080,height=2162};FBLC/ko_KR;FBCR/SKTelecom;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-A908N;FBSV/11;FBOP/1;FBCA/arm64-v8a:;]
-[FBAN/FB4A;FBAV/346.0.0.29.119;FBBV/335950318;FBDM/{density=2.0,width=720,height=1365};FBLC/ru_RU;FBRV/337672225;FBCR/Tele2;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-M015F;FBSV/10;FBOP/19;FBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/327.0.0.33.120;FBBV/304400874;FBDM/{density=3.0,width=1080,height=2168};FBLC/en_US;FBCR/TELUS;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-G781W;FBSV/11;FBOP/1;FBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/348.0.0.39.118;FBBV/338919016;FBDM/{density=2.75,width=1080,height=2167};FBLC/he_IL;FBCR/Cellcom;FBMF/Xiaomi;FBBD/Redmi;FBPN/com.facebook.katana;FBDV/21061119AG;FBSV/11;FBOP/1;FBCA/arm64-v8a:;]
+[FBAN/FB4A;FBAV/346.0.0.29.119;FBBV/335950338;FBDM/{density=2.625,width=1080,height=2186};FBLC/ru_RU;FBCR/YOTA;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-A515F;FBSV/11;FBOP/19;FBCA/arm64-v8a:;]
